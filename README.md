@@ -1,2 +1,2 @@
-# module-challenge-1
+# Module Challenge #1
 My solution for the first module challenge
